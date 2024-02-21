@@ -1,21 +1,19 @@
 site_name: BentoDevelopment Docs
-repo_url: https://github.com/BentoDevelopment/docs/
 site_url: https://bentodevelopment.github.io/docs/
 site_author: Joe Hosten
-
 # Repository
+
 repo_name: bentodevelopment/docs
-repo_url: https://github.com/BentoDevelopment/docs
+repo_url: https://github.com/BentoDevelopment/docs/
 
 nav:
-  - Home: index.md
-  - About: about.md
-  - Products:
+  - Home: changelog.md
+  - Blog: blog/index.md
+  - BentoDevelopment:
       - products/index.md
   - Pronouns4j:
-    - Changelog:
-      - pronouns4j/changelog/index.md
     - pronouns4j/index.md
+    - pronouns4j/changelog.md
 
 theme:
   name: material
