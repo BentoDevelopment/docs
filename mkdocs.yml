@@ -7,7 +7,7 @@ repo_name: bentodevelopment/docs
 repo_url: https://github.com/BentoDevelopment/docs/
 
 nav:
-  - Home: changelog.md
+  - Home: index.md
   - Blog: blog/index.md
   - BentoDevelopment:
       - products/index.md
