@@ -12,7 +12,7 @@ nav:
   - About: about.md
   - Products:
       - products/index.md
-  - Pronouns4j
+  - Pronouns4j:
     - Changelog:
       - pronouns4j/changelog/index.md
     - pronouns4j/index.md
