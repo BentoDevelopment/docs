@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: BentoDevelopment Docs
 repo_url: https://github.com/BentoDevelopment/docs/
 site_url: https://bentodevelopment.github.io/docs/
 site_author: Joe Hosten
@@ -10,6 +10,12 @@ repo_url: https://github.com/BentoDevelopment/docs
 nav:
   - Home: index.md
   - About: about.md
+  - Products:
+      - products/index.md
+  - Pronouns4j
+    - Changelog:
+      - pronouns4j/changelog/index.md
+    - pronouns4j/index.md
 
 theme:
   name: material
