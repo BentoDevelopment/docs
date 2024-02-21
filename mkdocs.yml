@@ -5,7 +5,7 @@ theme:
   name: material
   palette:
     scheme: slate
-    primary: red
+    primary: black
     accent: indigo
 
   font:
