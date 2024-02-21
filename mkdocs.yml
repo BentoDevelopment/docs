@@ -1,3 +1,26 @@
 site_name: My Docs
+repo_url: https://github.com/BentoDevelopment/docs/
+site_url: https://bentodevelopment.github.io/docs/
 theme:
   name: material
+  palette: red
+  font:
+    text: Lato
+  features:
+    - navigation.footer
+    - search.suggest
+    - navigation.instant
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/gNTPAsJRZt
+      name: Discord
+    - icon: fontawesome/brands/github
+      link: https://github.com/BentoDevelopment
+      name: Github
+
+copyright: Copyright &copy; 2024 BentoDevelopment, Joseph Hosten
