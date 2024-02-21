@@ -3,7 +3,11 @@ repo_url: https://github.com/BentoDevelopment/docs/
 site_url: https://bentodevelopment.github.io/docs/
 theme:
   name: material
-  palette: red
+  palette:
+    scheme: slate
+    primary: red
+    accent: indigo
+
   font:
     text: Lato
   features:
