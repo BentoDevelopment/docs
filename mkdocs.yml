@@ -37,9 +37,8 @@ theme:
       bug: octicons/bug-16
       example: octicons/beaker-16
       quote: octicons/quote-16
-
   font:
-    text: Lato
+    text: Poppins
   features:
     - navigation.footer
     - search.suggest
@@ -65,6 +64,9 @@ markdown_extensions:
   - pymdownx.superfences
 
 extra:
+  analytics:
+    provider: google
+    property: ${{ secrets.GOOGLE_STATS }}
   status:
     new: Recently added
     updated: Recently updated
