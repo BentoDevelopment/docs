@@ -103,11 +103,13 @@ You can manipulate these placeholders by adding "_upper" to make them capitalize
     <pronouns_sub> - For the subjective pronoun (e.g., He, She, They)
     <pronouns_obj> - For the objective pronoun (e.g., Him, Her, Them)
     ```  
-    ```yaml title="Example"
-    format: '[<pronouns_sub>/<pronouns_obj>] {DISPLAYNAME} {MESSAGE}'
-    ```
+    !!! example
 
-    It is essential to configure these placeholders correctly to ensure seamless integration with Pronouns4j.
+        ```yaml title="Example"
+        format: '[<pronouns_sub>/<pronouns_obj>] {DISPLAYNAME} {MESSAGE}'
+        ```
+    
+        It is essential to configure these placeholders correctly to ensure seamless integration with Pronouns4j.
 
 
 ## Additional Resources
