@@ -65,6 +65,9 @@ markdown_extensions:
   - pymdownx.superfences
 
 extra:
+  status:
+    new: Recently added
+    updated: Recently updated
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/gNTPAsJRZt

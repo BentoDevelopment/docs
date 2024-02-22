@@ -1,3 +1,13 @@
+---
+title: Pronouns4j Documentation
+subtitle: Documentation and wiki for Pronouns4j
+authors:
+  - phpfpm
+description: The documentation and wiki for Pronouns4j
+icon: octicons/hash
+status: new
+---
+
 # Pronouns4j Documentation
 
 Pronouns4j is a Minecraft plugin designed to revolutionize and diversify your Minecraft server experience by allowing users to specify their preferred pronouns. Server admins can integrate Pronouns4j into their server setup to ensure messages and interactions reflect the chosen pronouns of players.
