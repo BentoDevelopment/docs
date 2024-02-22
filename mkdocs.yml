@@ -11,7 +11,7 @@ nav:
   - Blog: blog/index.md
   - Pronouns4j:
     - pronouns4j/index.md
-    - pronouns4j/changelog.md
+    - Changelog: pronouns4j/changelog.md
 
 theme:
   name: material
