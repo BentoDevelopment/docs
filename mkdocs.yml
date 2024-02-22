@@ -9,8 +9,6 @@ repo_url: https://github.com/BentoDevelopment/docs/
 nav:
   - Home: index.md
   - Blog: blog/index.md
-  - BentoDevelopment:
-      - products/index.md
   - Pronouns4j:
     - pronouns4j/index.md
     - pronouns4j/changelog.md

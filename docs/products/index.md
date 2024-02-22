@@ -1,5 +1,0 @@
----
-title: My products
----
-
-# Products
