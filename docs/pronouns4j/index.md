@@ -50,8 +50,9 @@ sql: # (1)
   database: default
 metrics: true # (2)
 ```
+
 1. `false` - Pronouns4j will use a local database stored in the plugin's data folder.  
-    `true` - Pronouns4j will use the database provided in the configuration.
+`true` - Pronouns4j will use the database provided in the configuration.
 2. This is for bStats analytics. This helps us track certain stats for the use of our plugin (game version, system architecture, server location etc.)
 
 ## Usage
