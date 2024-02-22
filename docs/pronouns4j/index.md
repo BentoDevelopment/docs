@@ -4,7 +4,7 @@ subtitle: Documentation and wiki for Pronouns4j
 authors:
   - phpfpm
 description: The documentation and wiki for Pronouns4j
-icon: octicons/hash
+icon: octicons/hash-16
 status: new
 ---
 
